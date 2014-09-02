@@ -20,6 +20,7 @@
 
 int mai(void)
 {
+	printf("This is a test file\n");
 	printf("hello world\n");
 	return 0;
 }
