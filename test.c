@@ -22,6 +22,7 @@ int mai(void)
 {
 	printf("This is a test file\n");
 	printf("hello world\n");
+	printf("add text\n");
 	return 0;
 }
 
