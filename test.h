@@ -1,29 +1,24 @@
 /*
  * =====================================================================================
  *
- *       Filename:  test.c
+ *       Filename:  test.h
  *
- *    Description:  c test file
+ *    Description:  Header File
  *
  *        Version:  1.0
- *        Created:  09/02/2014 06:30:30 PM
+ *        Created:  09/10/2014 04:45:38 PM
  *       Revision:  none
  *       Compiler:  gcc
  *
  *         Author:  ZhangZhenxing 
- *   Organization:  
+ *   Organization:  Harbor
  *
  * =====================================================================================
  */
-#include <stdio.h>
-#include <stdlib.h>
-#include "test.h"
+#ifndef __TEST_H__
+#define __TEST_H__
 
-int mai(void)
-{
-	printf("This is a test file\n");
-	printf("hello world\n");
-	printf("add text\n");
-	return 0;
-}
+
+
+#endif
 
